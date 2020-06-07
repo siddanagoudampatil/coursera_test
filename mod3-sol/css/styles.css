@@ -63,6 +63,7 @@ body {
 h2{
   text-align: center;
   color: #DAA520;
+  padding-right: 5px;
 }
 @media (min-width:768px) {
   #header-nav {
